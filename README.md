@@ -1,5 +1,7 @@
 # Typerr - Typing Practice for Programmers
 
+**Live Demo:** [https://explorersoul.github.io/Project_Typerr/](https://explorersoul.github.io/Project_Typerr/)
+
 ## Overview
 
 Typerr is a specialized typing practice web application designed specifically for programmers. Unlike traditional typing tutors, Typerr focuses on improving your typing speed and accuracy when writing code in various programming languages.
@@ -29,7 +31,7 @@ Typerr is a specialized typing practice web application designed specifically fo
 
 1. Clone the repository or download the ZIP file:
    ```
-   git clone https://github.com/yourusername/typerr.git
+   git clone https://github.com/ExplorerSoul/Project_Typerr.git
    ```
 
 2. Open the `index.html` file in your web browser:
